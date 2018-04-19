@@ -1,0 +1,5 @@
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\Model\bin\Debug\Model.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\Model\bin\Debug\Model.pdb
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\Model\obj\Debug\Model.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\Model\obj\Debug\Model.pdb

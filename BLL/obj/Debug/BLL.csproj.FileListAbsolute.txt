@@ -1,0 +1,9 @@
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Debug\BLL.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Debug\BLL.pdb
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Debug\DAL.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Debug\Model.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Debug\DAL.pdb
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Debug\Model.pdb
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\obj\Debug\BLL.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\obj\Debug\BLL.pdb

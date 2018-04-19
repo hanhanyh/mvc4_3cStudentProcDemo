@@ -1,0 +1,9 @@
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Release\BLL.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Release\BLL.pdb
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Release\DAL.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Release\Model.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Release\DAL.pdb
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\bin\Release\Model.pdb
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\obj\Release\BLL.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\BLL\obj\Release\BLL.pdb

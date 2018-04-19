@@ -1,0 +1,4 @@
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\Model\bin\Release\Model.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\Model\bin\Release\Model.pdb
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\Model\obj\Release\Model.dll
+E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\Model\obj\Release\Model.pdb

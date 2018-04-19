@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\VSProjects\MVC\MVC4\mvc4_3cStudentProcDemo\StudentProcDemo\StudentProcDemo\bin\publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BLL.dll">
+      <publishTime>04/18/2018 11:22:11</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>04/18/2018 11:22:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/18/2018 10:16:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>04/18/2018 10:16:40</publishTime>
+    </File>
+    <File Include="bin/Model.dll">
+      <publishTime>04/18/2018 11:22:11</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/18/2018 10:16:39</publishTime>
+    </File>
+    <File Include="bin/StudentProcDemo.dll">
+      <publishTime>04/18/2018 11:22:12</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>04/18/2018 10:16:41</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>04/18/2018 10:16:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>04/18/2018 10:16:41</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>04/18/2018 10:16:41</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>04/18/2018 10:16:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>04/18/2018 10:16:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>04/18/2018 10:16:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>04/18/2018 10:16:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>04/18/2018 10:16:40</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Net.Http.Formatting.resources.dll">
+      <publishTime>04/18/2018 10:16:43</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Helpers.resources.dll">
+      <publishTime>04/18/2018 10:16:42</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Http.resources.dll">
+      <publishTime>04/18/2018 10:16:43</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Http.WebHost.resources.dll">
+      <publishTime>04/18/2018 10:16:43</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Mvc.resources.dll">
+      <publishTime>04/18/2018 10:16:43</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Razor.resources.dll">
+      <publishTime>04/18/2018 10:16:42</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>04/18/2018 10:16:42</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>04/18/2018 10:16:42</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.resources.dll">
+      <publishTime>04/18/2018 10:16:42</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/18/2018 10:16:35</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/18/2018 10:16:44</publishTime>
+    </File>
+    <File Include="Views/Home/Index.aspx">
+      <publishTime>04/18/2018 11:04:24</publishTime>
+    </File>
+    <File Include="Views/User/Edit.aspx">
+      <publishTime>04/18/2018 11:12:51</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>04/18/2018 10:16:35</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/18/2018 11:22:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
